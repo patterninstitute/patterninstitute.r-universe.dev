@@ -1,0 +1,34 @@
+[
+  {
+    "package": "gwasrapidd",
+    "url": "https://github.com/ramiromagno/gwasrapidd"
+  },
+  {
+    "package": "quincunx",
+    "url": "https://github.com/ramiromagno/quincunx"
+  },
+  {
+    "package": "wig",
+    "url": "https://github.com/ramiromagno/wig"
+  },
+  {
+    "package": "ensemblr",
+    "url": "https://github.com/ramiromagno/ensemblr"
+  },
+  {
+    "package": "geisha",
+    "url": "https://github.com/ramiromagno/geisha"
+  },
+  {
+    "package": "grantham",
+    "url": "https://github.com/maialab/grantham"
+  },
+  {
+    "package": "agvgd",
+    "url": "https://github.com/maialab/agvgd"
+  },
+  {
+   "package": "protean",
+   "url": "https://github.com/maialab/protean"
+  }
+]
