@@ -34,5 +34,25 @@
   {
    "package": "eunis.habitats",
    "url": "https://github.com/ramiromagno/eunis.habitats"
+  },
+  {
+   "package": "guescini",
+   "url": "https://github.com/ramiromagno/guescini"
+  },
+  {
+   "package": "rutledge",
+   "url": "https://github.com/ramiromagno/rutledge"
+  },
+  {
+   "package": "batsch",
+   "url": "https://github.com/ramiromagno/batsch"
+  },
+  {
+   "package": "ruijter",
+   "url": "https://github.com/ramiromagno/ruijter"
+  },
+  {
+   "package": "vermeulen",
+   "url": "https://github.com/ramiromagno/vermeulen"
   }
 ]
