@@ -54,5 +54,10 @@
   {
    "package": "vermeulen",
    "url": "https://github.com/ramiromagno/vermeulen"
+  },
+  {
+   "package": "dataset.json.examples",
+   "url": "https://github.com/ramiromagno/dataset.json.examples"
   }
+
 ]
